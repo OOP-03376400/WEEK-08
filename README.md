@@ -1,5 +1,7 @@
 # WEEK-08
 
+<!--
+
 Some Youtube video links.
 
 * Advanced C#: 06 Delegates 
@@ -22,6 +24,9 @@ Some Youtube video links.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/8e2GEFNctwQ/0.jpg)](http://www.youtube.com/watch?v=8e2GEFNctwQ "Advanced C#: Lesson 4 - Delegates Events and Lambda expressions" target="_blank") 
 
 
+-->
+
+ดูรายละเอียดเพิ่มเติมจาก [wiki](https://github.com/OOP-2559/WEEK-08/wiki)  ของ WEEK-08
 
 
 
